@@ -78,13 +78,13 @@ nav#menu li {
 /* Left column */
 .leftcolumn {   
   float: left;
-  width: 75%;
+  width: 73%;
 }
 
 /* Right column */
 .rightcolumn {
   float: left;
-  width: 25%;
+  width: 23%;
   background-color: #f1f1f1;
   padding-left: 20px;
 }
